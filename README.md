@@ -17,11 +17,22 @@
 
 <br>
 
+## Table of Contents
+- [About Me](#about-me)
+- [GitHub Stats](#github-stats)
+- [Featured Repositories](#featured-repositories)
+- [Leetcode Stats](#leetcode-stats)
+- [Tech Stack](#tech-stack)
+- [Let's Connect](#lets-connect)
+- [License](#license)
+
+<br>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dylangilson&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
 
-<h2 align="center">About Me</h2>
+## About Me
 
 I've been coding since 2015 and have developed a deep passion for solving problems through technology. With a solid academic background, I hold Bachelor's degrees in Mathematics and Computing Science from Simon Fraser University (SFU), which has provided me with a strong foundation in both the theoretical and practical aspects of computing.
 
@@ -33,7 +44,7 @@ On my portfolio, you'll find a collection of my personal projects, showcasing th
 
 Feel free to explore my work, and let’s connect! Whether you're interested in collaborating, sharing ideas, or chatting about tech, I'm always open to new opportunities and conversations.
 
-<h2 align="center">Github Stats</h2>
+## Github Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=dylangilson&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
@@ -64,7 +75,7 @@ Feel free to explore my work, and let’s connect! Whether you're interested in 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dylangilson&theme=highcontrast&hide_border=true">
 
-<h2 align="center">Featured Repositories</h2>
+## Featured Repositories
 
 <div align="center">
   <table>
@@ -107,14 +118,14 @@ Feel free to explore my work, and let’s connect! Whether you're interested in 
   </table>
 </div>
 
-<h2 align="center">Leetcode Stats</h2>
+## Leetcode Stats
 <p align="center">
   <img align="center" src="https://leetcard.jacoblin.cool/dylangilson?ext=heatmap"/>
 </p>
 
 <br>
 
-<h1 align="center">Tech Stack</h1>
+# Tech Stack
 
 <h3 align="center">Web Development</h3>
 <div align="center">
@@ -572,7 +583,7 @@ Feel free to explore my work, and let’s connect! Whether you're interested in 
  </table>
 </div>
 
-<h2 align="center">Let's Connect!</h2>
+## Let's Connect!
 
 <table align="center">
   <thead>
@@ -593,5 +604,10 @@ Feel free to explore my work, and let’s connect! Whether you're interested in 
     </tr>
   </tbody>
 </table>
+
+## License
+Eliseo Copyright 2025
+<br>
+Code released under the [MIT License](LICENSE)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%" />
