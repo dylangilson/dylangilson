@@ -23,13 +23,15 @@
 
 <h2 align="center">About Me</h2>
 
-I've been coding since 2015 and have developed a deep passion for solving problems through technology. With a solid academic background, I hold Bachelor's degrees in Mathematics and Computer Science from Simon Fraser University (SFU), which has provided me with a strong foundation in both the theoretical and practical aspects of computing.
+I've been coding since 2015 and have developed a deep passion for solving problems through technology. With a solid academic background, I hold Bachelor's degrees in Mathematics and Computing Science from Simon Fraser University (SFU), which has provided me with a strong foundation in both the theoretical and practical aspects of computing.
 
 Over the years, I've honed my skills in a variety of programming languages and frameworks, always seeking new challenges that allow me to push the boundaries of what technology can achieve. I enjoy building innovative solutions and crafting clean, efficient code to bring ideas to life.
 
+Professionally, I serve as the Head of Digital Marketing and Web Development at K2 Lighting, where I originally joined as a Digital Marketing Specialist. In this role, I've had the opportunity to lead the digital transformation of the company, combining my technical expertise with strategic marketing to enhance our online presence, optimize web platforms, and drive meaningful engagement. It's been a rewarding journey of growth—both for me and for the brand.
+
 On my portfolio, you'll find a collection of my personal projects, showcasing the diverse tools and technologies I've worked with. Whether it's full-stack development, machine learning, or just solving interesting algorithmic problems, my goal is always to create projects that are both functional and impactful.
 
-Feel free to explore my work, and let's connect! Whether you're interested in collaborating or just want to chat about tech, I'm always open to new opportunities and discussions.
+Feel free to explore my work, and let’s connect! Whether you're interested in collaborating, sharing ideas, or chatting about tech, I'm always open to new opportunities and conversations.
 
 <h2 align="center">Github Stats</h2>
 
