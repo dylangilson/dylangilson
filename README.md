@@ -13,7 +13,7 @@
 
 | Github Portfolio                                                                                                                                                    | GitHub                                                                                                                                                                             | LinkedIn                                                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Github Portfolio](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Github+Portfolio&size=square)](https://www.dylangilson.github.io/) | [![Dylan Gilson](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fdylangilson&subtitle=%2Fdylangilson&size=square)](https://github.com/dylangilson) | [![Dylan Gilson](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdylan-gilson-a5130831b%2F&subtitle=@Dylan+Gilson&size=square)](https://www.linkedin.com/in/dylan-gilson-a5130831b/) |
+| [![Github Portfolio](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Github+Portfolio&size=square)](https://dylangilson.github.io/) | [![Dylan Gilson](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fdylangilson&subtitle=%2Fdylangilson&size=square)](https://github.com/dylangilson) | [![Dylan Gilson](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdylan-gilson-a5130831b%2F&subtitle=@Dylan+Gilson&size=square)](https://www.linkedin.com/in/dylan-gilson-a5130831b/) |
 
 <br>
 
@@ -68,36 +68,36 @@ Feel free to explore my work, and let's connect! Whether you're interested in co
   <table>
     <tr>
       <td>
-        <a href="https://github.com/dylangilson/Nirvana" target="_blank">
+        <a href="https://github.com/dylangilson/Nirvana">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=dylangilson&repo=Nirvana&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/dylangilson/GameBoy_C" target="_blank">
+        <a href="https://github.com/dylangilson/GameBoy_C">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=dylangilson&repo=GameBoy_C&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/dylangilson/Quantum" target="_blank">
+        <a href="https://github.com/dylangilson/Quantum">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=dylangilson&repo=Quantum&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/dylangilson/Roguelike" target="_blank">
+        <a href="https://github.com/dylangilson/Roguelike">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=dylangilson&repo=Roguelike&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/dylangilson/Tetris_AI" target="_blank">
+        <a href="https://github.com/dylangilson/Tetris_AI">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=dylangilson&repo=Tetris_AI&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/dylangilson/3D_Cellular_Automata" target="_blank">
+        <a href="https://github.com/dylangilson/3D_Cellular_Automata">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=dylangilson&repo=3D_Cellular_Automata&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
@@ -125,37 +125,37 @@ Feel free to explore my work, and let's connect! Whether you're interested in co
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://reactjs.org/" style="color: white;" target="_blank">
+        <a href="https://reactjs.org/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/>
         </a>
         <br>React
       </td>
       <td align="center" style="border: none;">
-        <a href="https://www.typescriptlang.org/" style="color: white;" target="_blank">
+        <a href="https://www.typescriptlang.org/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50"/>
         </a>
         <br>TypeScript
       </td>
       <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;" target="_blank">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
           <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/>
         </a>
         <br>JavaScript
       </td>
       <td align="center" style="border: none;">
-        <a href="https://tailwindcss.com/" style="color: white;" target="_blank">
+        <a href="https://tailwindcss.com/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind CSS"/>
         </a>
         <br>Tailwind CSS
       </td>
       <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;" target="_blank">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
           <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML"/>
         </a>
         <br>HTML
       </td>
       <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;" target="_blank">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
           <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS"/>
         </a>
         <br>CSS
@@ -175,12 +175,12 @@ Feel free to explore my work, and let's connect! Whether you're interested in co
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://expressjs.com/" style="color: white;" target="_blank">
+        <a href="https://expressjs.com/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
         </a>
       </td>
       <td align="center" style="border: none;">
-        <a href="https://nodejs.org/" style="color: white;" target="_blank">
+        <a href="https://nodejs.org/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js"/><br>Node.js
         </a>
       </td>
@@ -200,17 +200,17 @@ Feel free to explore my work, and let's connect! Whether you're interested in co
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://reactnative.dev/" style="color: white;" target="_blank">
+        <a href="https://reactnative.dev/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=react" alt="React Native" width="50" height="50"/><br>React Native
         </a>
       </td>
       <td align="center" style="border: none;">
-        <a href="https://gradle.org/" style="color: white;" target="_blank">
+        <a href="https://gradle.org/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" width="50" height="50"/><br>Gradle
         </a>
       </td>
       <td align="center" style="border: none;">
-        <a href="https://www.npmjs.com/" style="color: white;" target="_blank">
+        <a href="https://www.npmjs.com/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="50" height="50"/><br>npm
         </a>
       </td>
@@ -230,17 +230,17 @@ Feel free to explore my work, and let's connect! Whether you're interested in co
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://www.python.org/" style="color: white;" target="_blank">
+        <a href="https://www.python.org/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/><br>Python
         </a>
       </td>
       <td align="center" style="border: none;">
-        <a href="https://www.r-project.org/" style="color: white;" target="_blank">
+        <a href="https://www.r-project.org/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=r" alt="R" width="50" height="50"/><br>R
         </a>
       </td>
       <td align="center" style="border: none;">
-        <a href="https://www.mathworks.com/products/matlab.html" style="color: white;" target="_blank">
+        <a href="https://www.mathworks.com/products/matlab.html" style="color: white;">
           <img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" width="80" height="50"/><br>MATLAB
         </a>
       </td>
@@ -259,27 +259,27 @@ Feel free to explore my work, and let's connect! Whether you're interested in co
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://www.tensorflow.org/" style="color: white;" target="_blank">
+        <a href="https://www.tensorflow.org/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50"/><br>TensorFlow
         </a>
       </td>
       <td align="center" style="border: none;">
-        <a href="https://pytorch.org/" style="color: white;"  target="_blank">
+        <a href="https://pytorch.org/" style="color: white;" >
           <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/><br>PyTorch
         </a>
       </td>
       <td align="center" style="border: none;">
-        <a href="https://opencv.org/" style="color: white;"  target="_blank">
+        <a href="https://opencv.org/" style="color: white;" >
           <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="50" height="50"/><br>OpenCV
         </a>
       </td>
       <td align="center" style="border: none;">
-        <a href="https://pandas.pydata.org/" style="color: white;" target="_blank">
+        <a href="https://pandas.pydata.org/" style="color: white;">
           <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="pandas" width="80" height="50"/><br>pandas
         </a>
       </td>
       <td align="center" style="border: none;">
-        <a href="https://anaconda.org/anaconda/python" style="color: white;"  target="_blank">
+        <a href="https://anaconda.org/anaconda/python" style="color: white;" >
           <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="50" height="50"/><br>Anaconda
         </a>
       </td>
@@ -299,12 +299,12 @@ Feel free to explore my work, and let's connect! Whether you're interested in co
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://en.wikipedia.org/wiki/C_(programming_language)" style="color: white;" target="_blank">
+        <a href="https://en.wikipedia.org/wiki/C_(programming_language)" style="color: white;">
           <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50"/><br>C
         </a>
       </td>
       <td align="center" style="border: none;">
-        <a href="https://en.wikipedia.org/wiki/C%2B%2B" style="color: white;" target="_blank">
+        <a href="https://en.wikipedia.org/wiki/C%2B%2B" style="color: white;">
           <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50"/><br>C++
         </a>
       </td>
@@ -323,12 +323,12 @@ Feel free to explore my work, and let's connect! Whether you're interested in co
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://cmake.org/" style="color: white;" target="_blank">
+        <a href="https://cmake.org/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=cmake" alt="CMake" width="50" height="50"/><br>CMake
         </a>
       </td>
       <td align="center" style="border: none;">
-        <a href="https://www.arduino.cc/" style="color: white;" target="_blank">
+        <a href="https://www.arduino.cc/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="50" height="50"/><br>Arduino
         </a>
       </td>
@@ -348,12 +348,12 @@ Feel free to explore my work, and let's connect! Whether you're interested in co
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://unity.com/" style="color: white;" target="_blank">
+        <a href="https://unity.com/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="50" height="50"/><br>Unity
         </a>
       </td>
       <td align="center" style="border: none;">
-        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" style="color: white;" target="_blank">
+        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="50" height="50"/><br>C#
         </a>
       </td>
@@ -373,12 +373,12 @@ Feel free to explore my work, and let's connect! Whether you're interested in co
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://www.docker.com/" style="color: white;" target="_blank">
+        <a href="https://www.docker.com/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/><br>Docker
         </a>
       </td>
       <td align="center" style="border: none;">
-        <a href="https://kubernetes.io/" style="color: white;" target="_blank">
+        <a href="https://kubernetes.io/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
         </a>
       </td>
@@ -398,17 +398,17 @@ Feel free to explore my work, and let's connect! Whether you're interested in co
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://www.blender.org/" style="color: white;" target="_blank">
+        <a href="https://www.blender.org/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=blender" alt="Blender" width="50" height="50"/><br>Blender
         </a>
       </td>
       <td align="center" style="border: none;">
-        <a href="https://www.figma.com/" style="color: white;" target="_blank">
+        <a href="https://www.figma.com/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/><br>Figma
         </a>
       </td>
       <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/SVG" style="color: white;" target="_blank">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/SVG" style="color: white;">
           <img src="https://skillicons.dev/icons?i=svg" alt="SVG" width="50" height="50"/><br>SVG
         </a>
       </td>
@@ -428,12 +428,12 @@ Feel free to explore my work, and let's connect! Whether you're interested in co
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://git-scm.com/" style="color: white;" target="_blank">
+        <a href="https://git-scm.com/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/><br>Git
         </a>
       </td>
       <td align="center" style="border: none;">
-        <a href="https://github.com/" style="color: white;" target="_blank">
+        <a href="https://github.com/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/><br>GitHub
         </a>
       </td>
@@ -453,32 +453,32 @@ Feel free to explore my work, and let's connect! Whether you're interested in co
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://code.visualstudio.com/" style="color: white;" target="_blank">
+        <a href="https://code.visualstudio.com/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50"/><br>VS Code
         </a>
       </td>
       <td align="center" style="border: none;">
-        <a href="https://visualstudio.microsoft.com/" style="color: white;" target="_blank">
+        <a href="https://visualstudio.microsoft.com/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="50" height="50"/><br>Visual Studio
         </a>
       </td>
       <td align="center" style="border: none;">
-        <a href="https://www.jetbrains.com/clion/" style="color: white;" target="_blank">
+        <a href="https://www.jetbrains.com/clion/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=clion" alt="Clion" width="50" height="50"/><br>CLion
         </a>
       </td>
       <td align="center" style="border: none;">
-        <a href="https://www.jetbrains.com/idea/" style="color: white;" target="_blank">
+        <a href="https://www.jetbrains.com/idea/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=idea" alt="Intellij IDEA" width="50" height="50"/><br>IntelliJ IDEA
         </a>
       </td>
       <td align="center" style="border: none;">
-        <a href="https://www.jetbrains.com/pycharm/" style="color: white;" target="_blank">
+        <a href="https://www.jetbrains.com/pycharm/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="50" height="50"/><br>PyCharm
         </a>
       </td>
       <td align="center" style="border: none;">
-        <a href="https://www.jetbrains.com/webstorm/" style="color: white;" target="_blank">
+        <a href="https://www.jetbrains.com/webstorm/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=webstorm" alt="WebStorm" width="50" height="50"/><br>WebStorm
         </a>
       </td>
@@ -497,12 +497,12 @@ Feel free to explore my work, and let's connect! Whether you're interested in co
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://www.sublimetext.com/" style="color: white;" target="_blank">
+        <a href="https://www.sublimetext.com/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=sublime" alt="Sublime Text" width="50" height="50"/><br>Sublime Text
         </a>
       </td>
       <td align="center" style="border: none;">
-        <a href="https://www.vim.org/" style="color: white;" target="_blank">
+        <a href="https://www.vim.org/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=vim" alt="Vim" width="50" height="50"/><br>Vim
         </a>
       </td>
@@ -522,22 +522,22 @@ Feel free to explore my work, and let's connect! Whether you're interested in co
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://www.microsoft.com/en-ca/windows" style="color: white;" target="_blank">
+        <a href="https://www.microsoft.com/en-ca/windows" style="color: white;">
           <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="50" height="50"/><br>Windows
         </a>
       </td>
       <td align="center" style="border: none;">
-        <a href="https://www.apple.com/ca/macos/macos-sequoia/" style="color: white;" target="_blank">
+        <a href="https://www.apple.com/ca/macos/macos-sequoia/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=apple" alt="MacOS" width="50" height="50"/><br>MacOS
         </a>
       </td>
       <td align="center" style="border: none;"> 
-        <a href="https://www.linux.org/" style="color: white;" target="_blank">
+        <a href="https://www.linux.org/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/><br>Linux
         </a>
       </td>
       <td align="center" style="border: none;">
-        <a href="https://ubuntu.com/" style="color: white;" target="_blank">
+        <a href="https://ubuntu.com/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="50" height="50"/><br>Ubuntu
         </a>
       </td>
@@ -556,12 +556,12 @@ Feel free to explore my work, and let's connect! Whether you're interested in co
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://www.gnu.org/software/bash/" style="color: white;" target="_blank">
+        <a href="https://www.gnu.org/software/bash/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50" height="50"/><br>Bash
         </a>
       </td>
       <td align="center" style="border: none;">
-        <a href="https://learn.microsoft.com/en-us/powershell/" style="color: white;" target="_blank">
+        <a href="https://learn.microsoft.com/en-us/powershell/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=powershell" alt="PyTorch" width="50" height="50"/><br>Powershell
         </a>
       </td>
@@ -581,7 +581,7 @@ Feel free to explore my work, and let's connect! Whether you're interested in co
   <tbody>
     <tr>
       <td align="center">
-        <a href="mailto:dylan.gilson@outlook.com" target="_blank">
+        <a href="mailto:dylan.gilson@outlook.com">
           <img src="https://img.icons8.com/color/96/000000/microsoft-outlook-2019.png"
  alt="Email" style="width: 80px; margin: 10px;">
           <br>
