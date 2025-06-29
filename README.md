@@ -6,17 +6,6 @@
 
 <br>
 
-<div align="center">
-  <div align="center">
-    <h2>Connect with Me</h2>
-    <p>Discover my work and connect on these platforms</p>
-
-| Github Portfolio                                                                                                                                                    | GitHub                                                                                                                                                                             | LinkedIn                                                                                                                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Github Portfolio](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Github+Portfolio&size=square)](https://dylangilson.github.io/) | [![Dylan Gilson](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fdylangilson&subtitle=%2Fdylangilson&size=square)](https://github.com/dylangilson) | [![Dylan Gilson](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdylan-gilson-a5130831b%2F&subtitle=@Dylan+Gilson&size=square)](https://www.linkedin.com/in/dylan-gilson-a5130831b/) |
-
-<br>
-
 ## Table of Contents
 - [About Me](#about-me)
 - [GitHub Stats](#github-stats)
@@ -25,6 +14,17 @@
 - [Tech Stack](#tech-stack)
 - [Let's Connect](#lets-connect)
 - [License](#license)
+
+<br>
+
+<div align="center">
+  <div align="center">
+    <h2>Connect with Me</h2>
+    <p>Discover my work and connect on these platforms</p>
+
+| Github Portfolio                                                                                                                                                    | GitHub                                                                                                                                                                             | LinkedIn                                                                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Github Portfolio](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Github+Portfolio&size=square)](https://dylangilson.github.io/) | [![Dylan Gilson](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fdylangilson&subtitle=%2Fdylangilson&size=square)](https://github.com/dylangilson) | [![Dylan Gilson](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdylan-gilson-a5130831b%2F&subtitle=@Dylan+Gilson&size=square)](https://www.linkedin.com/in/dylan-gilson-a5130831b/) |
 
 <br>
 
