@@ -7,6 +7,7 @@
 <br>
 
 ## Table of Contents
+
 - [About Me](#about-me)
 - [GitHub Stats](#github-stats)
 - [Featured Repositories](#featured-repositories)
@@ -22,8 +23,8 @@
     <h2>Connect with Me</h2>
     <p>Discover my work and connect on these platforms</p>
 
-| Github Portfolio                                                                                                                                                    | GitHub                                                                                                                                                                             | LinkedIn                                                                                                                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Github Portfolio                                                                                                                                                | GitHub                                                                                                                                                                             | LinkedIn                                                                                                                                                                                                                        |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Github Portfolio](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Github+Portfolio&size=square)](https://dylangilson.github.io/) | [![Dylan Gilson](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fdylangilson&subtitle=%2Fdylangilson&size=square)](https://github.com/dylangilson) | [![Dylan Gilson](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdylan-gilson-a5130831b%2F&subtitle=@Dylan+Gilson&size=square)](https://www.linkedin.com/in/dylan-gilson-a5130831b/) |
 
 <br>
@@ -119,6 +120,7 @@ Feel free to explore my work, and let’s connect! Whether you're interested in 
 </div>
 
 ## Leetcode Stats
+
 <p align="center">
   <img align="center" src="https://leetcard.jacoblin.cool/dylangilson?ext=heatmap"/>
 </p>
@@ -139,39 +141,33 @@ Feel free to explore my work, and let’s connect! Whether you're interested in 
     <tr>
       <td align="center" style="border: none;">
         <a href="https://reactjs.org/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/>
+          <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/><br>React
         </a>
-        <br>React
       </td>
       <td align="center" style="border: none;">
         <a href="https://www.typescriptlang.org/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50"/>
+          <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50"/><br>TypeScript
         </a>
-        <br>TypeScript
       </td>
       <td align="center" style="border: none;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/>
+          <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/><br>JavaScript
         </a>
-        <br>JavaScript
       </td>
       <td align="center" style="border: none;">
         <a href="https://tailwindcss.com/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind CSS"/>
+          <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind CSS"/><br>Tailwind CSS
         </a>
-        <br>Tailwind CSS
       </td>
       <td align="center" style="border: none;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML"/>
+          <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML"/><br>HTML
         </a>
-        <br>HTML
       </td>
       <td align="center" style="border: none;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS"/>
+          <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS"/><br>CSS
         </a>
-        <br>CSS
       </td>
     </tr>
   </tbody>
@@ -232,6 +228,45 @@ Feel free to explore my work, and let’s connect! Whether you're interested in 
 </table>
 </div>
 
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="2" align="center" style="color: white;">Development Environments</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <a href="https://developer.android.com/studio" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=androidstudio" width="50" height="50"/><br>Android Studio
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<h3 align="center">Cloud Computing</h3>
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="2" align="center" style="color: white;">Cloud Services</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <a href="https://aws.amazon.com/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" height="50"/><br>AWS
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 <h3 align="center">AI/ML & Data Science</h3>
 <div align="center">
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
@@ -284,11 +319,6 @@ Feel free to explore my work, and let’s connect! Whether you're interested in 
       <td align="center" style="border: none;">
         <a href="https://opencv.org/" style="color: white;" >
           <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="50" height="50"/><br>OpenCV
-        </a>
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://pandas.pydata.org/" style="color: white;">
-          <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="pandas" width="80" height="50"/><br>pandas
         </a>
       </td>
       <td align="center" style="border: none;">
@@ -435,7 +465,7 @@ Feel free to explore my work, and let’s connect! Whether you're interested in 
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="2" align="center" style="color: white;">Version Control</th>
+      <th colspan="2" align="center" style="color: white;">Software Solutions</th>
     </tr>
   </thead>
   <tbody>
@@ -606,6 +636,7 @@ Feel free to explore my work, and let’s connect! Whether you're interested in 
 </table>
 
 ## License
+
 Eliseo Copyright 2025
 <br>
 Code released under the [MIT License](LICENSE)
